@@ -25,11 +25,14 @@
     {% endif %}
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
+    <div class="item">
     {% if publication.arxiv %}
       <li><a href="{{ publication.arxiv }}">Arxiv</a></li>
     {% endif %}
     {% if publication.code %}
     <li><a href="{{ publication.code }}">Code</a></li>
+  </div><!--//item-->
+
   {% endif %}
   </div><!--//item-->
   {% endfor %}
