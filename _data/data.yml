@@ -123,9 +123,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Here is a list of my publications:
     papers:
 
       - title: "Thermal and Visible Image Registration Using Deep Homography"

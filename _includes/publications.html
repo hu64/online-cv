@@ -15,10 +15,9 @@
     {{ publications.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
-
+  <ol reversed>
   {% for publication in publications.papers %}
   <div class="item">
-    <ol>
     {% if publication.link %}
       <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
     {% else %}
@@ -33,11 +32,11 @@
     {% if publication.code %}
     <li><a href="{{ publication.code }}">Code</a></li>
     </ul>
-  </ol>
 
   {% endif %}
   </div><!--//item-->
   {% endfor %}
+</ol>
 
 </section><!--//section-->
 {% endif %}
