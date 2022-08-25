@@ -18,6 +18,7 @@
 
   {% for publication in publications.papers %}
   <div class="item">
+    <ol>
     {% if publication.link %}
       <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
     {% else %}
@@ -25,13 +26,14 @@
     {% endif %}
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
-    <div class="item">
+    <ul>
     {% if publication.arxiv %}
       <li><a href="{{ publication.arxiv }}">Arxiv</a></li>
     {% endif %}
     {% if publication.code %}
     <li><a href="{{ publication.code }}">Code</a></li>
-  </div><!--//item-->
+    </ul>
+  </ol>
 
   {% endif %}
   </div><!--//item-->
