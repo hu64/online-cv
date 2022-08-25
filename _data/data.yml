@@ -127,10 +127,45 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+
+      - title: "Thermal and Visible Image Registration Using Deep Homography"
+        link: "https://ieeexplore.ieee.org/abstract/document/9841256"
+        authors: Benoit Debaque, Hughes Perreault, Jean-Philippe Mercier, Marc-Antoine Drouin, Rares David, Benedicte Chatelais, Nicolas Duclos-Hindie, Simon Roy
+        conference: "2022 25th International Conference on Information Fusion (FUSION)"
+        arxiv: "https://easychair.org/publications/preprint_download/n32K"
+
+      - title: "Détection et segmentation des usagers de la route dans des images et vidéos"
+        link: "https://publications.polymtl.ca/9471/"
+        authors: Hughes Perreault
+        conference: "Ph.D. thesis"
+
+      - title: "PolyTrack: Tracking with Bounding Polygons"
+        link: "https://ml4ad.github.io/files/papers2021/PolyTrack:%20Tracking%20with%20Bounding%20Polygons.pdf"
+        authors: Gaspar Faure, Hughes Perreault, Guillaume-Alexandre Bilodeau, Nicolas Saunier
+        conference: "International Conference on Image Analysis and Recognition"
+        arxiv: "https://arxiv.org/abs/2111.01606"
+        code: "https://github.com/gafaua/PolyTrack"
+
+      - title: "Centerpoly: Real-time instance segmentation using bounding polygons"
+        link: "https://openaccess.thecvf.com/content/ICCV2021W/AVVision/html/Perreault_CenterPoly_Real-Time_Instance_Segmentation_Using_Bounding_Polygons_ICCVW_2021_paper.html"
+        authors: Hughes Perreault, Guillaume-Alexandre Bilodeau, Nicolas Saunier, Maguelonne Héritier
+        conference: "Proceedings of the IEEE/CVF International Conference on Computer Vision"
+        arxiv: https://arxiv.org/abs/2108.08923"
+        code: "https://github.com/hu64/CenterPoly"
+
+      - title: "FFAVOD: Feature fusion architecture for video object detection"
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S016786552100307X"
+        authors: Hughes Perreault, Guillaume-Alexandre Bilodeau, Nicolas Saunier, Maguelonne Héritier
+        conference: "Pattern Recognition Letters"
+        arxiv: "https://arxiv.org/abs/2109.07298"
+        code: "https://github.com/hu64/FFAVOD"
+
+      - title: "SpotNet: Self-attention multi-task network for object detection"
+        link: "https://ieeexplore.ieee.org/abstract/document/9108685/"
+        authors: Hughes Perreault, Guillaume-Alexandre Bilodeau, Nicolas Saunier, Maguelonne Héritier
+        conference: "2020 17th Conference on Computer and Robot Vision (CRV)"
+        arxiv: https://arxiv.org/abs/2002.05540"
+        code: "https://github.com/hu64/SpotNet"
 
       - title: "RN-VID: A Feature Fusion Architecture for Video Object Detection"
         link: "https://link.springer.com/chapter/10.1007/978-3-030-50347-5_12"
