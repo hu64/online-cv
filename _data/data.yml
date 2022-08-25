@@ -137,10 +137,11 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Road user detection in videos
+        arxiv: "https://arxiv.org/abs/1903.12049"
+        code: "https://github.com/hu64/RN-VID"
+        authors: Hughes Perreault, Guillaume-Alexandre Bilodeau, Nicolas Saunier, Pierre Gravel
+        # conference: "Comm. ACM 4 (1961), 51–55"
 
 # skills:
 #     title: Skills &amp; Proficiency
