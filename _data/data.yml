@@ -132,10 +132,12 @@ publications:
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "RN-VID: A Feature Fusion Architecture for Video Object Detection"
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-50347-5_12"
+        authors: Hughes Perreault, Maguelonne Heritier, Pierre Gravel, Guillaume-Alexandre Bilodeau, Nicolas Saunier
+        conference: "International Conference on Image Analysis and Recognition"
+        arxiv: " https://arxiv.org/abs/2003.10898 "
+        code: "https://github.com/hu64/RN-VID"
 
       - title: Road user detection in videos
         arxiv: "https://arxiv.org/abs/1903.12049"
