@@ -26,10 +26,10 @@
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
     {% if publication.arxiv %}
-      <li><a href="{{ publication.arxiv }}">{{ Arxiv }}</a></li>
+      <li><a href="{{ publication.arxiv }}">Arxiv</a></li>
     {% endif %}
     {% if publication.code %}
-    <li><a href="{{ publication.code }}">{{ Code }}</a></li>
+    <li><a href="{{ publication.code }}">Code</a></li>
   {% endif %}
   </div><!--//item-->
   {% endfor %}

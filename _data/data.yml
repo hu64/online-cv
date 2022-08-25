@@ -136,7 +136,7 @@ publications:
         link: "https://link.springer.com/chapter/10.1007/978-3-030-50347-5_12"
         authors: Hughes Perreault, Maguelonne Heritier, Pierre Gravel, Guillaume-Alexandre Bilodeau, Nicolas Saunier
         conference: "International Conference on Image Analysis and Recognition"
-        arxiv: " https://arxiv.org/abs/2003.10898 "
+        arxiv: "https://arxiv.org/abs/2003.10898"
         code: "https://github.com/hu64/RN-VID"
 
       - title: Road user detection in videos
