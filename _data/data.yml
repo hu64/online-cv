@@ -134,11 +134,13 @@ publications:
         authors: Benoit Debaque, Hughes Perreault, Jean-Philippe Mercier, Marc-Antoine Drouin, Rares David, Benedicte Chatelais, Nicolas Duclos-Hindie, Simon Roy
         conference: "2022 25th International Conference on Information Fusion (FUSION)"
         arxiv: "https://easychair.org/publications/preprint_download/n32K"
-
+        year: 2022
+        
       - title: "Détection et segmentation des usagers de la route dans des images et vidéos"
         link: "https://publications.polymtl.ca/9471/"
         authors: Hughes Perreault
         conference: "Ph.D. thesis"
+        year: 2021
 
       - title: "PolyTrack: Tracking with Bounding Polygons"
         link: "https://ml4ad.github.io/files/papers2021/PolyTrack:%20Tracking%20with%20Bounding%20Polygons.pdf"
@@ -167,6 +169,7 @@ publications:
         conference: "2020 17th Conference on Computer and Robot Vision (CRV)"
         arxiv: https://arxiv.org/abs/2002.05540"
         code: "https://github.com/hu64/SpotNet"
+        year: 2020
 
       - title: "RN-VID: A Feature Fusion Architecture for Video Object Detection"
         link: "https://link.springer.com/chapter/10.1007/978-3-030-50347-5_12"
@@ -179,6 +182,7 @@ publications:
         arxiv: "https://arxiv.org/abs/1903.12049"
         code: "https://github.com/hu64/RN-VID"
         authors: Hughes Perreault, Guillaume-Alexandre Bilodeau, Nicolas Saunier, Pierre Gravel
+        year: 2019
         # conference: "Comm. ACM 4 (1961), 51–55"
 
 # skills:
