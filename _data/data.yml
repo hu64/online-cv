@@ -86,12 +86,12 @@ experiences:
       details: |
 
     - role: Computer Vision Intern
-      time: 2016
+      time: August 2016 - December 2016
       company: Genetec, Montreal
       details: |
 
     - role: C++ programmer/Technical Support
-      time: 2014 - 2015
+      time: October 2014, June 2015
       company: Dash Computer Solutions, Montreal
       details: |
 
@@ -135,7 +135,7 @@ publications:
         conference: "2022 25th International Conference on Information Fusion (FUSION)"
         arxiv: "https://easychair.org/publications/preprint_download/n32K"
         year: 2022
-        
+
       - title: "Détection et segmentation des usagers de la route dans des images et vidéos"
         link: "https://publications.polymtl.ca/9471/"
         authors: Hughes Perreault
