@@ -19,7 +19,7 @@
   {% for publication in publications.papers %}
   <div class="item">
     {% if publication.year %}
-    <h3>{{ publication.year }}</h3>
+    <h5>{{ publication.year }}</h5>
   {% endif %}
     {% if publication.link %}
       <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
