@@ -126,7 +126,6 @@ experiences:
 publications:
     title: Publications
     intro: |
-      Here is a list of my publications:
     papers:
 
       - title: "Thermal and Visible Image Registration Using Deep Homography"
