@@ -135,6 +135,7 @@ publications:
         conference: "2022 25th International Conference on Information Fusion (FUSION)"
         arxiv: "https://easychair.org/publications/preprint_download/n32K"
         year: 2022
+        local: thermal-visible-homography
 
       - title: "Détection et segmentation des usagers de la route dans des images et vidéos"
         link: "https://publications.polymtl.ca/9471/"
@@ -148,6 +149,7 @@ publications:
         conference: "International Conference on Image Analysis and Recognition"
         arxiv: "https://arxiv.org/abs/2111.01606"
         code: "https://github.com/gafaua/PolyTrack"
+        local: polytrack
 
       - title: "Centerpoly: Real-time instance segmentation using bounding polygons"
         link: "https://openaccess.thecvf.com/content/ICCV2021W/AVVision/html/Perreault_CenterPoly_Real-Time_Instance_Segmentation_Using_Bounding_Polygons_ICCVW_2021_paper.html"
@@ -155,6 +157,7 @@ publications:
         conference: "Proceedings of the IEEE/CVF International Conference on Computer Vision"
         arxiv: https://arxiv.org/abs/2108.08923"
         code: "https://github.com/hu64/CenterPoly"
+        local: centerpoly
 
       - title: "FFAVOD: Feature fusion architecture for video object detection"
         link: "https://www.sciencedirect.com/science/article/abs/pii/S016786552100307X"
@@ -162,6 +165,7 @@ publications:
         conference: "Pattern Recognition Letters"
         arxiv: "https://arxiv.org/abs/2109.07298"
         code: "https://github.com/hu64/FFAVOD"
+        local: ffavod
 
       - title: "SpotNet: Self-attention multi-task network for object detection"
         link: "https://ieeexplore.ieee.org/abstract/document/9108685/"
@@ -170,6 +174,7 @@ publications:
         arxiv: https://arxiv.org/abs/2002.05540"
         code: "https://github.com/hu64/SpotNet"
         year: 2020
+        local: spotnet
 
       - title: "RN-VID: A Feature Fusion Architecture for Video Object Detection"
         link: "https://link.springer.com/chapter/10.1007/978-3-030-50347-5_12"
@@ -177,13 +182,14 @@ publications:
         conference: "International Conference on Image Analysis and Recognition"
         arxiv: "https://arxiv.org/abs/2003.10898"
         code: "https://github.com/hu64/RN-VID"
+        local: rn-vid
 
       - title: Road user detection in videos
         arxiv: "https://arxiv.org/abs/1903.12049"
         code: "https://github.com/hu64/RN-VID"
         authors: Hughes Perreault, Guillaume-Alexandre Bilodeau, Nicolas Saunier, Pierre Gravel
         year: 2019
-        # conference: "Comm. ACM 4 (1961), 51–55"
+        local: road_user
 
 # skills:
 #     title: Skills &amp; Proficiency

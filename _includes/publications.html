@@ -30,11 +30,14 @@
     <div class="publication-conference">{{ publication.conference }}</div>
     <ul>
     {% if publication.arxiv %}
-      <li><a href="{{ publication.arxiv }}" target="_blank">Arxiv</a></li>
+      <li><a href="{{ publication.arxiv }}" target="_blank">arxiv</a></li>
     {% endif %}
     {% if publication.code %}
-    <li><a href="{{ publication.code }} " target="_blank">Code</a></li>
+    <li><a href="{{ publication.code }} " target="_blank">code</a></li>
   {% endif %}
+  {% if publication.local %}
+  <li><a href="assets/paper/{{ publication.code }}.pdf">pdf</a></li>
+{% endif %}
 </ul>
 
   </div><!--//item-->
