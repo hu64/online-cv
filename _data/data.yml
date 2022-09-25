@@ -142,6 +142,7 @@ publications:
         authors: Hughes Perreault
         conference: "Ph.D. thesis"
         year: 2021
+        local: these
 
       - title: "PolyTrack: Tracking with Bounding Polygons"
         link: "https://ml4ad.github.io/files/papers2021/PolyTrack:%20Tracking%20with%20Bounding%20Polygons.pdf"

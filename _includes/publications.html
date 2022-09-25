@@ -29,15 +29,18 @@
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
     <ul>
+      <li>
+        {% if publication.local %}
+        <a href="/assets/paper/{{ publication.code }}.pdf">pdf</a>
+      {% endif %}
     {% if publication.arxiv %}
-      <li><a href="{{ publication.arxiv }}" target="_blank">arxiv</a></li>
+      / <a href="{{ publication.arxiv }}" target="_blank">arxiv</a>
     {% endif %}
     {% if publication.code %}
-    <li><a href="{{ publication.code }} " target="_blank">code</a></li>
+    / <a href="{{ publication.code }} " target="_blank">code</a>
   {% endif %}
-  {% if publication.local %}
-  <li><a href="/assets/paper/{{ publication.code }}.pdf">pdf</a></li>
-{% endif %}
+
+</li>
 </ul>
 
   </div><!--//item-->
