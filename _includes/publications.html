@@ -21,11 +21,7 @@
     {% if publication.year %}
     <h5>{{ publication.year }}</h5>
   {% endif %}
-    {% if publication.link %}
-      <li>{{ publication.title }}</li>
-    {% else %}
-      <li>{{ publication.title }}</li>
-    {% endif %}
+    <li>{{ publication.title }}</li>
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
     <ul>
@@ -42,7 +38,6 @@
   {% if publication.link %}
   / <a href="{{ publication.link }} " target="_blank">official link</a>
 {% endif %}
-
 </li>
 </ul>
 
