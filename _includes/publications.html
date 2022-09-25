@@ -22,7 +22,7 @@
     <h5>{{ publication.year }}</h5>
   {% endif %}
     {% if publication.link %}
-      <li><a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></li>
+      <li>{{ publication.title }}</li>
     {% else %}
       <li>{{ publication.title }}</li>
     {% endif %}
