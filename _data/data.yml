@@ -133,7 +133,6 @@ publications:
         link: "https://ieeexplore.ieee.org/abstract/document/9841256"
         authors: Benoit Debaque, Hughes Perreault, Jean-Philippe Mercier, Marc-Antoine Drouin, Rares David, Benedicte Chatelais, Nicolas Duclos-Hindie, Simon Roy
         conference: "2022 25th International Conference on Information Fusion (FUSION)"
-        arxiv: "https://easychair.org/publications/preprint_download/n32K"
         year: 2022
         local: thermal-visible-homography
 

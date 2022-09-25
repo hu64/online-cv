@@ -39,6 +39,9 @@
     {% if publication.code %}
     / <a href="{{ publication.code }} " target="_blank">code</a>
   {% endif %}
+  {% if publication.link %}
+  / <a href="{{ publication.link }} " target="_blank">official link</a>
+{% endif %}
 
 </li>
 </ul>
