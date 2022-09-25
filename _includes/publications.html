@@ -22,7 +22,7 @@
     <h5>{{ publication.year }}</h5>
   {% endif %}
     {% if publication.link %}
-      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+      <li><a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></li>
     {% else %}
       <li>{{ publication.title }}</li>
     {% endif %}
@@ -30,10 +30,10 @@
     <div class="publication-conference">{{ publication.conference }}</div>
     <ul>
     {% if publication.arxiv %}
-      <li><a href="{{ publication.arxiv }}">Arxiv</a></li>
+      <li><a href="{{ publication.arxiv }}" target="_blank">Arxiv</a></li>
     {% endif %}
     {% if publication.code %}
-    <li><a href="{{ publication.code }}">Code</a></li>
+    <li><a href="{{ publication.code }} " target="_blank">Code</a></li>
   {% endif %}
 </ul>
 

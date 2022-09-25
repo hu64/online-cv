@@ -57,7 +57,7 @@ career-profile:
 
       Hi! I am Hughes, a computer vision enthusiast, specialized in object detection, instance segmentation and video object detection in urban environment. I am particularly interested in using computer vision for greater safety and automation in transportation. In recent years, I have worked primarily with deep learning, including tools like TensorFlow and PyTorch. Although, I must say that the mathematical elegance of classical computer vision still fascinates me. During my Ph.D., I produced results on multiple popular road user datasets including Cityscapes, KITTI, India Driving, UA-DETRAC and UAVDT. My accomplishments include receiving the Springer best paper award (1st place) for ICIAR 2020 for RN-VID, achieving the top result on the UA-DETRAC object detection benchmark with SpotNet and achieving the top result for real-time instance segmentation on Cityscapes, KITTI and IDD with CenterPoly. I am currently working as an AI scientist at Thales. 
 
-      Fun fact, my Dijkstra number is [five](https://www.csauthors.net/distance/edsger-w-dijkstra/hughes-perreault") and my Erdos number is also [five](https://www.csauthors.net/distance/paul-erdos/hughes-perreault)!
+      Fun fact, my Dijkstra number is five <a href="https://www.csauthors.net/distance/edsger-w-dijkstra/hughes-perreault" target="_blank">(click here)</a> and my Erdos number is also five <a href="https://www.csauthors.net/distance/paul-erdos/hughes-perreault" target="_blank">(click here)</a>.
 
 education:
     - degree: Ph.D. in Computer Engineering
