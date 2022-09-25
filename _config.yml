@@ -2,11 +2,11 @@
 
 # Site Settings
 title: Hughes Perreault
-url: 'http://webjeda.com'
+url: 'https://hu64.github.io'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-#baseurl: '/online-cv' 
+baseurl: '/online-cv' 
 
 description: Hughes Perreault's homepage
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
