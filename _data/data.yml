@@ -38,18 +38,18 @@ sidebar:
       - idiom: English
         level: Professional
 
-    interests:
-      - item: Chess
-        link:
+    # interests:
+    #   - item: Chess
+    #     link:
 
-      - item: Biking
-        link:
+    #   - item: Biking
+    #     link:
 
-      - item: Family life
-        link:
+    #   - item: Family life
+    #     link:
 
-      - item: Slow living
-        link:
+    #   - item: Slow living
+    #     link:
 
 career-profile:
     title: Career Profile
