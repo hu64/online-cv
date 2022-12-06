@@ -9,13 +9,13 @@ with plt.xkcd():
     ax = fig.add_axes((0.1, 0.2, 0.8, 0.7))
 
 
-    citations_by_year = [3, 26, 37]
+    citations_by_year = [3, 25, 40]
     y = np.cumsum(citations_by_year)
     x = ["2020", "2021", "2022"]
 
     ax.annotate(
         'HERE THE PHD IS \nDONE AND THE THALES \nADVENTURE STARTS',
-        xy=("2021", 29), arrowprops=dict(arrowstyle='->'), xytext=("2021", 15))
+        xy=("2021", 28), arrowprops=dict(arrowstyle='->'), xytext=("2021", 15))
 
     # ax.annotate(
     #     'Total number of citations is ' + str(np.sum(y)),
