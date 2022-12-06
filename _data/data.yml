@@ -124,6 +124,12 @@ experiences:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+      # - title: "Multimodal Deep Homography Estimation Using a Domain Adaptation Generative Adversarial Network"
+      #   authors: Thomas Pouplin, Hughes Perreault, Benoit Debaque, Marc-Antoine Drouin, Nicolas Duclos-Hindie, Simon Roy
+      #   conference: "2nd Workshop on Multimodal Big Data (MMBD 2022)"
+      #   year: 2022
+      #   local: multimodal-homograhy-gan
+
 publications:
     title: Publications
     intro: |
