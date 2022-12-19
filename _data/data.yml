@@ -38,24 +38,21 @@ sidebar:
       - idiom: English
         level: Professional
 
-    # interests:
-    #   - item: Chess
-    #     link:
+    interests:
+      - item: Chess
+        link:
 
-    #   - item: Biking
-    #     link:
+      - item: Juggling and unicycling 
+        link:
 
-    #   - item: Family life
-    #     link:
-
-    #   - item: Slow living
-    #     link:
+      - item: Hygge, family life and slow living
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
 
-      Hi! I am Hughes, a computer vision enthusiast, specialized in object detection, instance segmentation and video object detection in urban environment. I am particularly interested in using computer vision for greater safety and automation in transportation. In recent years, I have worked primarily with deep learning, including tools like TensorFlow and PyTorch. Although, I must say that the mathematical elegance of classical computer vision still fascinates me. During my Ph.D., I produced results on multiple popular road user datasets including Cityscapes, KITTI, India Driving, UA-DETRAC and UAVDT. My accomplishments include receiving the Springer best paper award (1st place) for ICIAR 2020 for RN-VID, achieving the top result on the UA-DETRAC object detection benchmark with SpotNet and achieving the top result for real-time instance segmentation on Cityscapes, KITTI and IDD with CenterPoly. I am currently working as an AI scientist at Thales. 
+      Hi! I am Hughes, a computer vision enthusiast specialized in object recognition and general scene understanding in urban environments. I am particularly interested in using computer vision for greater safety and automation in transportation applications. In recent years, I have worked primarily with deep learning, including tools like TensorFlow and PyTorch, even though I still have a strong interest in classical computer vision. During my Ph.D., I produced results on multiple popular road user datasets including Cityscapes, KITTI, India Driving, UA-DETRAC and UAVDT. Here is a brief summary of my academic accomplishments. First, I received the Springer best paper award (1st place) for ICIAR 2020 with RN-VID. Second, I reached the top result on the UA-DETRAC object detection benchmark with SpotNet. Third, I reached the top result for real-time instance segmentation on Cityscapes, KITTI and IDD with CenterPoly. I am currently working as an AI scientist at Thales where I worked on general optimization, multimodal image registration and fusion, and object detection and tracking among other things.
 
       Fun fact, my Dijkstra number is five <a href="https://www.csauthors.net/distance/edsger-w-dijkstra/hughes-perreault" target="_blank">(click here)</a> and my Erdos number is also five <a href="https://www.csauthors.net/distance/paul-erdos/hughes-perreault" target="_blank">(click here)</a>.
 
@@ -124,16 +121,18 @@ experiences:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      # - title: "Multimodal Deep Homography Estimation Using a Domain Adaptation Generative Adversarial Network"
-      #   authors: Thomas Pouplin, Hughes Perreault, Benoit Debaque, Marc-Antoine Drouin, Nicolas Duclos-Hindie, Simon Roy
-      #   conference: "2nd Workshop on Multimodal Big Data (MMBD 2022)"
-      #   year: 2022
-      #   local: multimodal-homograhy-gan
+
 
 publications:
     title: Publications
     intro: |
     papers:
+
+      - title: "Multimodal Deep Homography Estimation Using a Domain Adaptation Generative Adversarial Network"
+        authors: Thomas Pouplin, Hughes Perreault, Benoit Debaque, Marc-Antoine Drouin, Nicolas Duclos-Hindie, Simon Roy
+        conference: "2nd Workshop on Multimodal Big Data (MMBD 2022)"
+        year: 2022
+        local: multimodal-homograhy-gan
 
       - title: "Thermal and Visible Image Registration Using Deep Homography"
         link: "https://ieeexplore.ieee.org/abstract/document/9841256"
