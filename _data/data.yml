@@ -138,7 +138,6 @@ publications:
         link: "https://ieeexplore.ieee.org/abstract/document/9841256"
         authors: Benoit Debaque, Hughes Perreault, Jean-Philippe Mercier, Marc-Antoine Drouin, Rares David, Benedicte Chatelais, Nicolas Duclos-Hindie, Simon Roy
         conference: "2022 25th International Conference on Information Fusion (FUSION)"
-        year: 2022
         local: thermal-visible-homography
 
       - title: "Détection et segmentation des usagers de la route dans des images et vidéos"
